@@ -1,0 +1,7 @@
+Proje geliştirme sırasında göz önünde bulundurulan hususlar:
+
+1 - ) Belirtilen proje gereksinimlerinin dışına çıkılmamaya özen gösterildi ve tüm değişkenler ve metotlar belirtilen şekilde oluşturuldu.
+2 - ) Bonus miktarı (haftalık çalışma saati - 40) x 4 şeklinde aylık olarak hesaplandı
+3 - ) Maaş artışından sonra vergi kesintisiz zamlı maaş brüt maaş; vergi kesintili maaş net maaş olarak tanımlandı
+4 - ) Bu ay çalışanın net geliri brüt maaş - vergi kesintisi (geçerliyse) +  bonus (geçerliyse) olarak hesaplandı
+5 - ) Çalışanın maaşına vergi kesintisi uygulanmıyorsa konsol çıktısında vergi kesintisine yer verilmedi
